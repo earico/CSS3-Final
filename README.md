@@ -1,4 +1,4 @@
-# Ded.rater Assembly
+# Ded.rater ISA
 
 ## Description
 A project to create our own version of an ISA which should have general functionality to run an assortment of benchmark programs. This project includes an assembler 
