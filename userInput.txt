@@ -1,0 +1,22 @@
+PUT 5 R1
+PUT 2 R2
+SUM R1 R2 R3
+OUT R3
+ARRAY 5 A1
+
+
+INS R# # //insert into register // 5 - 8 - 8
+PRINT R# // print register
+
+SUMR R# R# ... R# // sum all registers
+SUBR R# R#...
+MULTR R#
+
+SUMA R# R# ... R# // sum all registers
+SUBA R# R#...
+MULTA R#
+
+LOAD R# // load register or array
+SAVE R# // Save register into 
+ARRAY # A#
+TAR # A#
