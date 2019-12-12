@@ -8,5 +8,3 @@ The code takes in a userInput.txt file that the main.py will read. Add your mnem
 
 ## Documentation
 Check Wiki for documentation
-
-| test |
